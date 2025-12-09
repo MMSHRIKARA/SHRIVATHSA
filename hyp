@@ -13,3 +13,14 @@ H₁1: There is a significant relationship between risk and return of selected m
 H₁2: Selected mutual funds significantly outperform the benchmark index.
 
 H₁3: There is a significant difference in performance among selected mutual funds.
+DATA ANALYSIS & HYPOTHESIS TEST RESULTS
+
+Monthly and annual returns were calculated using NAV data.
+
+Risk-adjusted performance was evaluated using Sharpe, Treynor, and Jensen’s Alpha.
+
+Benchmark comparison was done with Nifty 50 Index.
+
+Results showed variation in performance among selected index funds.
+
+Risk and return were found to be positively related.
