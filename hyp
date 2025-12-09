@@ -38,3 +38,10 @@ H₀3: There is no significant difference in performance among selected mutual f
 
 Result: ❌ Rejected
 ✅ Differences were observed in returns, risk levels, and risk-adjusted measures such as Sharpe Ratio, Treynor Ratio, and Jensen’s Alpha.
+
+
+Risk and return are positively related in mutual fund investments
+Funds with higher risk showed relatively higher returns.
+All selected mutual funds tracked the Nifty 50 index closely.
+Sharpe, Treynor, and Jensen’s Alpha helped evaluate performance.
+Index funds are suitable for long-term investors.
