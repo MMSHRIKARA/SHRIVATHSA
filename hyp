@@ -24,3 +24,17 @@ Benchmark comparison was done with Nifty 50 Index.
 Results showed variation in performance among selected index funds.
 
 Risk and return were found to be positively related.
+H₀1: There is no significant relationship between risk and return of selected mutual funds
+
+Result: ❌ Rejected
+✅ A positive relationship exists between risk and return, as observed through standard deviation, beta, and returns.
+
+H₀2: Selected mutual funds do not significantly outperform the benchmark index
+
+Result: ✅ Accepted
+✅ The selected Nifty 50 index funds closely track the benchmark and do not significantly outperform it.
+
+H₀3: There is no significant difference in performance among selected mutual funds
+
+Result: ❌ Rejected
+✅ Differences were observed in returns, risk levels, and risk-adjusted measures such as Sharpe Ratio, Treynor Ratio, and Jensen’s Alpha.
