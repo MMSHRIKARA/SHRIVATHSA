@@ -1,0 +1,7 @@
+| **Fund Name**                            | **Mean Return (Rp)** | **Std. Deviation (σp)** | **Risk-Free Rate (Rf)** | **Excess Return (Rp – Rf)** | **Sharpe Ratio** | **Explanation**                 |
+| ---------------------------------------- | -------------------- | ----------------------- | ----------------------- | --------------------------- | ---------------- | ------------------------------- |
+| **ICICI Prudential Nifty 50 Index Fund** | 1.099861             | 5.58595                 | Constant monthly T-bill | Positive                    | **0.196898**     | Higher SD → higher Sharpe       |
+| **HDFC Index Fund – NIFTY Plan**         | 1.052934             | 5.531408                | Constant                | Positive                    | **0.190356**     | Lowest SD → lowest Sharpe       |
+| **UTI Nifty 50 Index Fund**              | 1.073714             | 5.538961                | Constant                | Positive                    | **0.193848**     | Moderate SD → moderate Sharpe   |
+| **Nippon India Index Fund**              | 1.063187             | 5.494962                | Constant                | Positive                    | **0.193484**     | Lower risk → stable return      |
+| **SBI Nifty Index Fund**                 | 1.107800             | 5.560257                | Constant                | Positive                    | **0.199235**     | Highest return → highest Sharpe |
